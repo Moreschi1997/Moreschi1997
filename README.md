@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Moreschi</h1>
-<h3 align="center">Eu sou estudante de cibersegurança, estou em busca de conhecimento; gosto do Back-end, infraestruturas de redes e o seu protocolos. Hoje estou focado em desenvolver em C/C++, pois acredito que são linguagens poderosas e também tenho conhecimento em Java.</h3>
+<h3 align="center">Eu sou estudante de cibersegurança, estou em busca de conhecimento; gosto do Back-end, infraestruturas de redes e o seu protocolos. Hoje estou focado em desenvolver em C/C++, pois acredito que são linguagens poderosas; e também tenho conhecimento em Java.</h3>
 
 - Alguns projetos abertos do git **https://github.com/Moreschi1997**
 
